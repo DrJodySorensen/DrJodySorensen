@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 I'm learning to use GitHub to share mathematics activities.  In particular, I worked with an inter-disciplinary group at Augsburg on the SUMMIT-P NSF grant.  We created daily activities for our Calculus I and II courses, as well as longer weekly lab activities.  
 
+You can contact me at sorensj1@augsburg.edu . 
+
